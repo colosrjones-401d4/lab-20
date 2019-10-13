@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/colosrjones-401d4/lab-20#readme",
   "dependencies": {
-    "@nmq/q": "^1.0.5"
-  }
+    "@nmq/q": "^1.0.5",
+    "dotenv": "^8.1.0",
+    "mongodb": "^3.3.2"
+  },
+  "devDependencies": {}
 }
